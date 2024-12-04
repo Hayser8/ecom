@@ -4,7 +4,7 @@ const Header = () => {
       <div className="flex items-center justify-between max-w-full px-6">
         {/* Logo completamente alineado a la izquierda */}
         <div className="flex-shrink-0">
-          <h1 className="text-3xl font-bold tracking-wide">Clothy Exclusiva</h1>
+          <h1 className="text-3xl font-bold tracking-wide">FE</h1>
         </div>
 
         {/* Navbar centrado */}
